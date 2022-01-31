@@ -1,0 +1,32 @@
+.parent {
+  height: 150px;
+  background-color: yellow;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.child {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  font-size: 10px;
+  text-align: center;
+}
+
+.child1 {
+  background-color: red;
+}
+
+.child2 {
+  background-color: orange;
+}
+
+.child3 {
+  background-color: blue;
+}
+
+.child4 {
+  background-color: black;
+  color: white;
+}
