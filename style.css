@@ -19,6 +19,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  color: white;
 }
 
 .child1 {
@@ -35,5 +36,4 @@
 
 .child4 {
   background-color: black;
-  color: white;
 }
